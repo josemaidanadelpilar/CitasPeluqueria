@@ -20,3 +20,5 @@ gulp
 HTML, CSS, JavaScript
 npm (para manejar las dependencias)
 Para contribuir al proyecto, por favor seguir las buenas prácticas de desarrollo y hacer una solicitud de pull al repositorio principal.
+# Creditos
+Jose Maidana
