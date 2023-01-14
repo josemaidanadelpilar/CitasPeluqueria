@@ -1,4 +1,4 @@
-# Peluqueria Ñeembucu
+# Peluqueria Ñeembucu(INCOMPLETO)
 Este proyecto es una aplicación web para agendar citas en un salón de belleza. Utiliza Vue.js para manejar la lógica de la aplicación, y gulp para automatizar tareas de desarrollo.
 
 # Características
