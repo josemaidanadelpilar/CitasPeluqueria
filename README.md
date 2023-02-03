@@ -15,7 +15,7 @@ Abrir http://localhost:3000 en el navegador para ver la aplicación en funcionam
 # Desarrollo
 Este proyecto fue desarrollado con:
 
-Vue.js
+Node.js
 gulp
 HTML, CSS, JavaScript
 npm (para manejar las dependencias)
