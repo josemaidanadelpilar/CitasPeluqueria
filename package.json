@@ -241,7 +241,7 @@
     "homedir-polyfill": "^1.0.3",
     "has-tostringtag": "^1.0.0",
     "has-symbol-support-x": "^1.4.2",
-    "http-cache-semantics": "^3.8.1",
+    "http-cache-semantics": "^4.1.1",
     "ignore": "^5.2.1",
     "has-to-string-tag-x": "^1.4.1",
     "imagemin": "^7.0.1",
